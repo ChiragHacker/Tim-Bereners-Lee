@@ -1,5 +1,5 @@
 body {
-    text-align: center margin: 0;
+    text-align: center;
     padding-top: 800px;
 }
 
@@ -104,5 +104,15 @@ p {
     font-size: 30px;
     
 }
+a{
+    text-decoration: none;
+    
+}
 
+.writings:hover{
+    color:crimson;
+}
+html{
+    scroll-behavior:smooth;
+}
 
